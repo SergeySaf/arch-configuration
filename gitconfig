@@ -1,0 +1,30 @@
+[user]
+	name = Ali Shanaakh
+	email = ashanaakh@gmail.com
+
+[core]
+	editor = vim
+
+[color]
+	ui = true
+
+[web]
+	browser = google-chrome
+
+[alias]
+	st = status
+	ap = apply
+	co = checkout
+	b = branch
+	f = fetch
+	ps = push
+	pl = pull
+	r = remote
+	rb = rebase
+	re = reset
+	d = diff
+	a = add
+	ds = diff --staged
+	c = commit
+	l = log --oneline
+	lg = log --oneline --graph
